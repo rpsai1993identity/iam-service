@@ -43,7 +43,7 @@ There are three built-in roles in `iam-service`:
 - Currently only Chinese and English are supported. Will support more languages later.
 - Refactor the code and optimize the domain model in DDD.
 
-## Requirements
+## Requirements:
 
 - The project is an eureka client project, which local operation needs to cooperate with `register-server`, and the online operation needs to cooperate with `go-register-server`.
 
